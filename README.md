@@ -1,6 +1,6 @@
 # MAHOYO ALICE Theme
 
-This is an unofficial VS Code theme based on the dark purple colors of Alice Kuonji (久遠寺有珠) who is one of main characters in Mahotsukai no yoru (魔法使いの夜). 
+This is an unofficial VS Code theme based on the dark purple colors of Alice Kuonji (久遠寺有珠) who is one of the main characters in Mahotsukai no yoru (魔法使いの夜). 
 
 **Disclaimer**: This theme is an unofficial fan work inspired by the colors of Alice Kuonji. All rights to the original work, including any images used in screenshots, belong to their respective copyright holders.
 

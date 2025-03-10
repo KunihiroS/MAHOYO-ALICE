@@ -2,7 +2,7 @@
     "name": "mahouyo-alice-color-theme",
     "displayName": "MAHOYO ALICE",
     "description": "A new VSCode color theme based on Mahotsukai no Yoru's Alice",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
@@ -21,6 +21,7 @@
         "tsukihime",
         "color theme"
     ],
+    "icon": "assets/cover_001.jpg",
     "contributes": {
         "themes": [
             {
@@ -29,10 +30,6 @@
                 "path": "./themes/mahouyo-alice-color-theme.json"
             }
         ],
-        "galleryBanner": {
-            "color": "#4A0F20",
-            "theme": "dark"
-        },
         "repository": {
             "type": "git",
             "url": "https://github.com/KunihiroS/MAHOYO-ALICE"
@@ -42,7 +39,7 @@
         }
     },
     "galleryBanner": {
-        "color": "#4A0F20",
+        "color": "#3C416E",
         "theme": "dark"
     },
     "license": "MIT",
