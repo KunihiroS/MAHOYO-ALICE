@@ -48,15 +48,15 @@
     "license": "MIT",
     "screenshots": [
         {
-            "path": "assets/cover_01.jpg",
+            "path": "assets/cover_001.jpg",
             "label": "Theme Preview 1"
         },
         {
-            "path": "assets/cover_02.jpg",
+            "path": "assets/cover_002.jpg",
             "label": "Theme Preview 2"
         },
         {
-            "path": "assets/cover_03.jpg",
+            "path": "assets/cover_003.jpg",
             "label": "Theme Preview 3"
         }
     ]
