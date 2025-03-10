@@ -47,7 +47,7 @@ This is an unofficial VS Code theme based on the dark purple colors of Alice Kuo
 - If you have suggestions or issues, please open an Issue on the [GitHub repository](https://github.com/KunihiroS/MAHOYO-ALICE)
 
 ## Version History
-### 0.1.0
+### 0.1.3
 - Initial release
 
 ## License
