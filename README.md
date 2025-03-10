@@ -20,6 +20,9 @@ This is an unofficial VS Code theme based on the dark purple colors of Alice Kuo
 ## Screenshots
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/KunihiroS/MAHOYO-ALICE/main/assets/cover_007.png" width="98%" alt="Theme Preview 7" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/KunihiroS/MAHOYO-ALICE/main/assets/cover_001.jpg" width="48%" alt="Theme Preview 1" />
   <img src="https://raw.githubusercontent.com/KunihiroS/MAHOYO-ALICE/main/assets/cover_002.jpg" width="48%" alt="Theme Preview 2" />
 </p>

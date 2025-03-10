@@ -2,7 +2,7 @@
     "name": "mahouyo-alice-color-theme",
     "displayName": "MAHOYO ALICE",
     "description": "A new VSCode color theme based on Mahotsukai no Yoru's Alice",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "kunihiros",
     "repository": {
         "type": "git",
@@ -44,6 +44,10 @@
     },
     "license": "MIT",
     "screenshots": [
+        {
+            "path": "assets/cover_007.png",
+            "label": "Theme Preview 7"
+        },
         {
             "path": "assets/cover_001.jpg",
             "label": "Theme Preview 1"
