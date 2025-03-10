@@ -58,6 +58,14 @@
         {
             "path": "assets/cover_003.jpg",
             "label": "Theme Preview 3"
+        },
+        {
+            "path": "assets/cover_005.jpg",
+            "label": "Theme Preview 5"
+        },
+        {
+            "path": "assets/cover_006.jpg",
+            "label": "Theme Preview 6"
         }
     ]
 }
